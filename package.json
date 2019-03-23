@@ -1,0 +1,26 @@
+{
+  "name": "frontend-dev-environment",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paulo-Teixeira/frontend-dev-environment.git"
+  },
+  "author": "Paulo Teixeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paulo-Teixeira/frontend-dev-environment/issues"
+  },
+  "homepage": "https://github.com/Paulo-Teixeira/frontend-dev-environment#readme"
+}
